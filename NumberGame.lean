@@ -1,5 +1,7 @@
 open nat 
+open nat.succ
 
+open nat.
 
 
 
@@ -174,3 +176,20 @@ test or not a testq1
 
 
 -/
+/-
+Lemma
+For all natural numbers 
+
+-/
+
+
+
+
+lemma add_succ_zero (a : nat): a+succ(0) = succ(a):=
+begin
+    add
+
+
+
+
+end
